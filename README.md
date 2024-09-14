@@ -24,7 +24,8 @@ Source: VentureBeat Article on Breach Detection.
 #### Hypothesize the Most Likely Attack:
 
 Threat hunters start by making an educated guess about which type of attack could be targeting the system, based on the organization's profile and recent cyber threats.
-Look for Suspicious, Malicious, or Risky Activity:
+
+#### Look for Suspicious, Malicious, or Risky Activity:
 
 Once a hypothesis is in place, hunters search for any unusual activity in the system that might support or disprove their hypothesis.
 
