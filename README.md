@@ -1,14 +1,21 @@
-# CEH_ITPROtv
+# CEH_IT
+
+### 1. What is information securtiy?
+
+` The protection of incormation and information systems from unauthorized access, use, disclosure, disruption modification and destruction.
+The goal is to provide Confidentiality, integrity and availability of systems and data. `
+   
+
 
 ## Threat Hunting: Key Concepts and Details
 
 Objective of Threat Hunting:
 
-[1] Discover data breaches by thoroughly examining systems for any signs of compromise.
+- [ ] Discover data breaches by thoroughly examining systems for any signs of compromise.
 
-[2] Identify and categorize Indicators of Compromise (IoCs), which help in detecting security incidents.
+-  [ ] Identify and categorize Indicators of Compromise (IoCs), which help in detecting security incidents.
 
-[3] List common IoCs to recognize possible attack patterns.
+-  [ ] List common IoCs to recognize possible attack patterns.
 
 ### What is Threat Hunting?
 
